@@ -1,4 +1,4 @@
-package prakalpro_2025_D_2511533018_pckg;
+package pekan1;
 
 public class MembuatKue {
 	public static void main(String[] args) {
