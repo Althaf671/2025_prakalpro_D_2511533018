@@ -2,6 +2,8 @@ package pekan3;
 
 import java.util.Scanner;
 
+import shared.MyLogger;
+
 public class OperatorRelasional {
 	
 	static MyLogger console = new MyLogger();
