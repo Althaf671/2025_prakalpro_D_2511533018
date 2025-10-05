@@ -118,7 +118,7 @@ public class tugasAlproPekan4_2511533018 {
                 break;
         }
 
-        // input hari tayang
+        // input waktu tayang
         waktuTayang = input.nextInt("// Pilih waktu tayang");
         switch (waktuTayang) {
             case 1:

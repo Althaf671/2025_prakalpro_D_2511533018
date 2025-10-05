@@ -8,7 +8,6 @@ public class multiIf {
 	static MyLogger tampilkan = new MyLogger();
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		tampilkan.log("===== Memulai Program =====");
 		
 		int umur;
