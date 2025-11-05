@@ -12,7 +12,7 @@ public class DoWhile_2511533018 {
 		do {
 			System.out.print("Input password ");
 			phrase = console.next();
-		} while (!phrase.equals("abcd"));
+		} while (!phrase.equals(" "));
 
 	}
 
